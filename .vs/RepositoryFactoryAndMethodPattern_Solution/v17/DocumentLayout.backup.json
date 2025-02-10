@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F60C1400-1AEB-4021-A21F-4A59A3F2E98C}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\repositoryfactoryandmethodpattern\\repositories\\genericrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60C1400-1AEB-4021-A21F-4A59A3F2E98C}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|solutionrelative:repositoryfactoryandmethodpattern\\repositories\\genericrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60C1400-1AEB-4021-A21F-4A59A3F2E98C}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|d:\\idb scholarship program\\c#\\projects\\1\\repositoryfactoryandmethodpattern_solution\\repositoryfactoryandmethodpattern\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60C1400-1AEB-4021-A21F-4A59A3F2E98C}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|solutionrelative:repositoryfactoryandmethodpattern\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60C1400-1AEB-4021-A21F-4A59A3F2E98C}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\repositoryfactoryandmethodpattern\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60C1400-1AEB-4021-A21F-4A59A3F2E98C}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|solutionrelative:repositoryfactoryandmethodpattern\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60C1400-1AEB-4021-A21F-4A59A3F2E98C}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\repositoryfactoryandmethodpattern\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60C1400-1AEB-4021-A21F-4A59A3F2E98C}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|solutionrelative:repositoryfactoryandmethodpattern\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60C1400-1AEB-4021-A21F-4A59A3F2E98C}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\repositoryfactoryandmethodpattern\\factories\\irepositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60C1400-1AEB-4021-A21F-4A59A3F2E98C}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|solutionrelative:repositoryfactoryandmethodpattern\\factories\\irepositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60C1400-1AEB-4021-A21F-4A59A3F2E98C}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\repositoryfactoryandmethodpattern\\repositories\\igenecricrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60C1400-1AEB-4021-A21F-4A59A3F2E98C}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|solutionrelative:repositoryfactoryandmethodpattern\\repositories\\igenecricrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60C1400-1AEB-4021-A21F-4A59A3F2E98C}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\repositoryfactoryandmethodpattern\\tests\\ditest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60C1400-1AEB-4021-A21F-4A59A3F2E98C}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|solutionrelative:repositoryfactoryandmethodpattern\\tests\\ditest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60C1400-1AEB-4021-A21F-4A59A3F2E98C}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\repositoryfactoryandmethodpattern\\factories\\repositoryfactoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60C1400-1AEB-4021-A21F-4A59A3F2E98C}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|solutionrelative:repositoryfactoryandmethodpattern\\factories\\repositoryfactoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60C1400-1AEB-4021-A21F-4A59A3F2E98C}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\repositoryfactoryandmethodpattern\\tests\\ditest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60C1400-1AEB-4021-A21F-4A59A3F2E98C}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|solutionrelative:repositoryfactoryandmethodpattern\\tests\\ditest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60C1400-1AEB-4021-A21F-4A59A3F2E98C}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\repositoryfactoryandmethodpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60C1400-1AEB-4021-A21F-4A59A3F2E98C}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|solutionrelative:repositoryfactoryandmethodpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DITest2.cs",
+              "DocumentMoniker": "D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\RepositoryFactoryAndMethodPattern\\Tests\\DITest2.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Tests\\DITest2.cs",
+              "ToolTip": "D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\RepositoryFactoryAndMethodPattern\\Tests\\DITest2.cs",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Tests\\DITest2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:40:19.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DITest1.cs",
+              "DocumentMoniker": "D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\RepositoryFactoryAndMethodPattern\\Tests\\DITest1.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Tests\\DITest1.cs",
+              "ToolTip": "D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\RepositoryFactoryAndMethodPattern\\Tests\\DITest1.cs",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Tests\\DITest1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwCUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:24:19.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepositoryFactoryImpl.cs",
+              "DocumentMoniker": "D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\RepositoryFactoryAndMethodPattern\\Factories\\RepositoryFactoryImpl.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Factories\\RepositoryFactoryImpl.cs",
+              "ToolTip": "D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\RepositoryFactoryAndMethodPattern\\Factories\\RepositoryFactoryImpl.cs",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Factories\\RepositoryFactoryImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:22:51.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepositoryFactory.cs",
+              "DocumentMoniker": "D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\RepositoryFactoryAndMethodPattern\\Factories\\IRepositoryFactory.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Factories\\IRepositoryFactory.cs",
+              "ToolTip": "D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\RepositoryFactoryAndMethodPattern\\Factories\\IRepositoryFactory.cs",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Factories\\IRepositoryFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:20:47.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepositoryImpl.cs",
+              "DocumentMoniker": "D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\RepositoryFactoryAndMethodPattern\\Repositories\\GenericRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Repositories\\GenericRepositoryImpl.cs",
+              "ToolTip": "D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\RepositoryFactoryAndMethodPattern\\Repositories\\GenericRepositoryImpl.cs",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Repositories\\GenericRepositoryImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:16:03.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenecricRepostory.cs",
+              "DocumentMoniker": "D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\RepositoryFactoryAndMethodPattern\\Repositories\\IGenecricRepostory.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Repositories\\IGenecricRepostory.cs",
+              "ToolTip": "D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\RepositoryFactoryAndMethodPattern\\Repositories\\IGenecricRepostory.cs",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Repositories\\IGenecricRepostory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:12:35.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\RepositoryFactoryAndMethodPattern\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Models\\Publisher.cs",
+              "ToolTip": "D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\RepositoryFactoryAndMethodPattern\\Models\\Publisher.cs",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Models\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:11:26.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\RepositoryFactoryAndMethodPattern\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Models\\Book.cs",
+              "ToolTip": "D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\RepositoryFactoryAndMethodPattern\\Models\\Book.cs*",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Models\\Book.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:09:35.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\RepositoryFactoryAndMethodPattern\\Models\\EntityBase.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Models\\EntityBase.cs",
+              "ToolTip": "D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\RepositoryFactoryAndMethodPattern\\Models\\EntityBase.cs",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Models\\EntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:09:03.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\RepositoryFactoryAndMethodPattern\\Program.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Program.cs",
+              "ToolTip": "D:\\IDB Scholarship Program\\C#\\Projects\\1\\RepositoryFactoryAndMethodPattern_Solution\\RepositoryFactoryAndMethodPattern\\Program.cs",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:07:59.219Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
